@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil de Romulo Rosa 😁
+## Romulo Rosa | Perfil:
 
  <div>
    <a href="https://github.com/romulofrontend">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulofrontend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulofrontend&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulofrontend&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulofrontend&layout=compact&langs_count=6&theme=chartreuse-dark"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Redes Sociais:
  
 <div> 
   <a href="https://www.linkedin.com/in/romulofrontend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
